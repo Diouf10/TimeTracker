@@ -1,6 +1,7 @@
 # TimeTracker
 
 📌 Description
+
 TimeTracker est une application qui permet de suivre et analyser le temps que tu consacres à différentes activités quotidiennes, comme l'apprentissage de la programmation, la lecture, le sport ou toute autre tâche importante.
 
 Grâce à une interface intuitive, tu peux enregistrer ton temps chaque jour et visualiser ton évolution à l’aide de graphiques interactifs.
