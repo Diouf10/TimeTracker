@@ -7,6 +7,7 @@ TimeTracker est une application qui permet de suivre et analyser le temps que tu
 Grâce à une interface intuitive, tu peux enregistrer ton temps chaque jour et visualiser ton évolution à l’aide de graphiques interactifs.
 
 🚀 Fonctionnalités
+
   ✅ Ajouter et modifier des sessions de temps pour chaque activité.
   ✅ Suivi quotidien, hebdomadaire et mensuel du temps passé.
   ✅ Visualisation des progrès avec des graphiques dynamiques.
@@ -14,15 +15,18 @@ Grâce à une interface intuitive, tu peux enregistrer ton temps chaque jour et 
   ✅ Interface responsive et conviviale.
 
 🛠️ Technologies utilisées
+
   Frontend : React.js / Next.js / Vue.js (selon ton choix)
   Backend : Node.js / Express.js / Django / Laravel (si nécessaire)
   Base de données : Firebase Firestore / SQLite / PostgreSQL / MongoDB (selon ton choix)
   Autres : Chart.js / TailwindCSS / Bootstrap (pour le design)
 
   📷 Aperçu (optionnel)
+  
   (Ajoute des screenshots ou un GIF ici si possible)
 
 📦 Installation & Exécution
+
 Cloner le projet
 sh
   git clone https://github.com/ton-user/TimeTracker.git
